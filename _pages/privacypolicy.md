@@ -5,56 +5,45 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+September 1 2019
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# 隱私權政策
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
 
 <br>
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+# 1.隱私權保護政策適用範圍
+本隱私政策說明當您使用我們的網站、手機應用程式或其他線上產品和服務（以下統稱為「本服務」），或者當您以其他方式與我們互動時，您的資訊將如何被收集並使用於拍揪有限公司以及其關係企業與產品。
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+# 2.個人資料的蒐集、處理及利用方式
+**當您造訪本服務所提供之功能服務時，我們將視該服務功能性質，請您提供必要的個人資料，並在該特定目的範圍內處理及利用您的個人資料；非經您書面同意，本網站不會將個人資料用於其他用途。
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+**為了註冊成為 拍揪 的用戶，您將被要求使用 Facebook 帳號或是手機碼登入。如果您這樣做，即授權我們存取特定的 Facebook的帳戶資訊，諸如您的公開 Facebook的 個人資料（與您在 Facebook 上的隱私權設定一致）、您的電子郵件地址、興趣、喜好、性別、生日、學歷、感情狀況、現居城市、照片、個人描述、好友列表以及您的 Facebook 好友的照片資訊，。當您下載或使用服務時拍揪 也將要求從您的設備收集您的位置資訊。此外，我們可能會收集並儲存您在使用我們的服務時，或以其他方式提供的任何個人資訊。這可能包括識別資訊，如您的姓名、地址、電子郵件地址和電話號碼，如果您與我們進行業務往來，則還包括財務資訊。您可能會向我們提供照片、個人描述和有關您的性別和推薦偏好設定資訊，例如搜尋距離、年齡範圍和性別。如果您與其他 拍揪 用戶聊天，您即向我們提供聊天內容，如果您透過客戶服務或其他查詢方式聯絡我們，您即向我們提供該通訊的內容。
 
+**收集資訊的技術使用。我們使用各種技術從您的設備和您在我們的服務上的活動收集資訊。
+
+**自動收集資訊。 當您造訪我們的服務時，我們會自動從您的瀏覽器或設備收集資訊。此資訊可能包括您的 IP 位址、設備 ID 和類型、您的瀏覽器類型和語言、您的設備使用的作業系統、造訪時間、行動裝置於我們的應用程式執行時所在地理位置，以及轉介網站地址。
+
+# 3.與第三人共用個人資料之政策
+本網站絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。
+前項但書之情形包括不限於：
+**經由您書面同意。
+
+**法律明文規定。
+
+**為免除您生命、身體、自由或財產上之危險。
+
+**與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集著依其揭露方式無從識別特定之當事人。
+
+**當您在網站的行為，違反服務條款或可能損害或妨礙本服務與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。
+
+**本網站委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。
+
+
+# 4.Cookie之使用
+Cookie 以及與 Cookie 類似的資料使用。 當您造訪我們的服務時，我們可能會為您的設備分配一個或多個 Cookie 或其他技術，促進個人化與您對我們服務的存取，並個人化您的體驗。透過使用 Cookie，我們還可能會自動收集您在我們的服務中的活動資訊，例如您造訪的網頁、造訪的時間和日期以及您點擊的連結
+
+# 5.隱私權保護政策之修正
+
+本網站隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。
 <br>
-
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
-
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
-
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
-
-<br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
