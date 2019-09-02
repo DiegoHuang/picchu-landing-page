@@ -12,28 +12,28 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 一起來拍揪，哩賣加拍啾！
+app_description                           : 一起來拍揪，哩賣加拍啾！ <br> 攝影師與小模媒合平台
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Diego Huang                                
+your_name                                 : Picchu                                
 your_link                                 :                     
 your_city                                 : Taipei                                
-email_address                             : diegohuang.tw@gmail.com
+email_address                             : picchu.taiwan@gmail.com
 facebook_username                         :                                           
-instagram_username                        : diegoohuang
-twitter_username                          : ebaehr
-github_username                           : diegohuang
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-  
+
   - title                                 : 大家來拍揪
     description                           : 拍揪是為攝影師與模特兒們特別設計的平台，可以在這分享作品、尋找喜歡的夥伴一起拍攝美美的作品
     fontawesome_icon_name                 : camera-retro
