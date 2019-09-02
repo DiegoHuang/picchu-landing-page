@@ -52,10 +52,10 @@ features                                  :
 
   - title                                 : 推播提醒功能
     description                           : 自動提醒去拍照，再也不會被放鳥
-    fontawesome_icon_name                 : bells
+    fontawesome_icon_name                 : bell
 
   - title                                 : 一鍵快篩
-    description                           : 快速篩選你要的風格作品，加速找到你心裡的 Mr.right
+    description                           : 快速篩選你要的風格作品，加速找到你心裡的 Mr.right / Ms.right
     fontawesome_icon_name                 : search
 
 
