@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Term of Service
+title: 服務條款
 include_in_header: false
 ---
 

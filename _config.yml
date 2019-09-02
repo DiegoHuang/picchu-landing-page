@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 攝影師與模特兒媒合平台 <br> 一起來拍揪，哩賣加拍啾！
+app_description                           : 一起來拍揪，哩賣加拍啾！ <br><br> 攝影師與模特兒媒合平台
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,29 +34,30 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 大家來拍揪
-    description                           : 拍揪是為攝影師與模特兒們特別設計的平台，可以在這分享作品、尋找喜歡的夥伴一起拍攝美美的作品
-    fontawesome_icon_name                 : camera-retro
+  - title                                 : 作品分享
+    description                           : 美照作品盡量放，就怕沒人來照你
+    fontawesome_icon_name                 : images
     
   - title                                 : 哩賣架拍啾！
     description                           : 一鍵揪團快速約，外拍不怕找不到
-    fontawesome_icon_name                 : user-friends
-
-  - title                                 : 單一帳號認證
-    description                           : 手機號碼實名制， 冒名騷擾不再來
-    fontawesome_icon_name                 : eye
+    fontawesome_icon_name                 : users-medical
 
   - title                                 : 個人評分機制
     description                           : 遇到雷包不用驚，使用評分教訓他
     fontawesome_icon_name                 : angry
 
+  - title                                 : 單一帳號認證
+    description                           : 手機號碼實名制， 冒名騷擾不再來
+    fontawesome_icon_name                 : eye
+
   - title                                 : 推播提醒功能
     description                           : 自動提醒去拍照，再也不會被放鳥
-    fontawesome_icon_name                 : bell-exclamation
-  
-  - title                                 : 作品分享
-    description                           : 美照作品盡量放，就怕沒人來照你
-    fontawesome_icon_name                 : folder-open
+    fontawesome_icon_name                 : alarm-clock
+
+  - title                                 : 一鍵快篩
+    description                           : 快速篩選你要的風格作品，加速找到你心裡的 Mr.right
+    fontawesome_icon_name                 : search
+
 
   - title                                 : # Smart App Banner
     description                           : # Display a smart app banner on iOS devices.
@@ -99,7 +100,7 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#ffffff"
-feature_icons_background_color            : "#74AA8C"
+feature_icons_background_color            : "#6fb7b7"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"

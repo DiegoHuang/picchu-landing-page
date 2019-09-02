@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隱私權保護政策
 include_in_header: false
 ---
 
