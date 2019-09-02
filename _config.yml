@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : 哩賣架拍啾！
     description                           : 一鍵揪團快速約，外拍不怕找不到
-    fontawesome_icon_name                 : users-medical
+    fontawesome_icon_name                 : camera-retro
 
   - title                                 : 個人評分機制
     description                           : 遇到雷包不用驚，使用評分教訓他
@@ -52,7 +52,7 @@ features                                  :
 
   - title                                 : 推播提醒功能
     description                           : 自動提醒去拍照，再也不會被放鳥
-    fontawesome_icon_name                 : alarm-clock
+    fontawesome_icon_name                 : bells
 
   - title                                 : 一鍵快篩
     description                           : 快速篩選你要的風格作品，加速找到你心裡的 Mr.right
